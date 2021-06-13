@@ -1,0 +1,6 @@
+<div align=center>
+<table width=100% cellspacing=0 cellpadding=0 border=0 bgcolor=#CBD6F3 background="img/bg9.png"><tr><td align=absmiddle valign=absmiddle>
+<font color=#FFFFFF><a class="alink" href="admin.php"><? echo $lang[index];?></a> | <a class="alink" href="admin.php?act=files"><? echo $lang[files];?></a> | <a class="alink" href="admin.php?act=changedlpass"><? echo $lang[master];?></a> | <a class="alink" href="admin.php?act=abuse"><? echo $lang[abuse];?></a> | <a class="alink" href="admin.php?act=deloldfiles"><? echo $lang[delete];?></a> | <a class="alink" href="admin.php?act=bans"><? echo $lang[bans];?></a> | <a class="alink" href="admin.php?act=check"><? echo $lang[check];?></a> | <a class="alink" href="admin.php?act=info"><? echo $lang[info_1];?></a> | <a class="alink" href="admindls.php"><? echo $lang[downloads];?></a> | <a class="alink" href="admin.php?act=stats"><? echo $lang[stats];?></a> | <a class="alink" href="admin.php?act=edit"><? echo $lang[edit];?></a> | <a class="alink" href="settings.php"><? echo $lang[settings];?></a> | <a class="alink" href="admin.php?act=logout"><? echo $lang[logout];?></a>
+</font>
+</td></tr></table>
+</div><br />
